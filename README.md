@@ -61,7 +61,7 @@ streamlit run app.py
 
 ## 🌍 Live Demo
 
-(After deployment, add your link here)
+https://retail-eda-project-zwbxjyejy8o4e7g3fqvsge.streamlit.app/
 
 ---
 
